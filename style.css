@@ -42,6 +42,11 @@ html, body {
   align-items: center;
   justify-content: center;
 }
+
+.LI-profile-badge{
+  align-items: center;
+  justify-content:center;
+}
 .picture {
   border-radius: 50%;
 }
